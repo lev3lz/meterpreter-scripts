@@ -1,7 +1,7 @@
 # Author: Carlos Perez at carlos_perez[at]darkoperator.com
 #-------------------------------------------------------------------------------
 ################## Variable Declarations ##################
-
+##edit by lev3lz for autorunscript custom exe persistent needs.
 ##
 # WARNING: Metasploit no longer maintains or accepts meterpreter scripts.
 # If you'd like to imporve this script, please try to port it as a post
